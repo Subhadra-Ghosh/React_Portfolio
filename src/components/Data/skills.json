@@ -1,0 +1,50 @@
+[
+    {
+      "title": "HTML",
+      "imageSrc": "skills/html.png"
+    },
+    {
+      "title": "CSS",
+      "imageSrc": "skills/css.png"
+    },
+    {
+      "title": "JavaScript",
+      "imageSrc": "skills/javascript.png"
+    },
+    {
+      "title": "React",
+      "imageSrc": "skills/react.png"
+    },
+    {
+      "title": "Node",
+      "imageSrc": "skills/node.png"
+    },
+    {
+      "title":"Firebase",
+      "imageSrc":"skills/firebase.png"
+    },
+    {
+      "title": "BootStrap",
+      "imageSrc": "skills/boot.png"
+    },
+    {
+      "title": "MongoDB",
+      "imageSrc": "skills/mongodb.png"
+    },
+    {
+      "title": "Express",
+      "imageSrc": "skills/express.png"
+    },
+    {
+        "title": "Git_GitHub",
+        "imageSrc": "skills/git-vs-github.png"
+      },
+      {
+        "title": "Core Java",
+        "imageSrc": "skills/java.jpg"
+      },
+      {
+        "title": "MySql",
+        "imageSrc": "skills/mysql.avif"
+      }
+  ]

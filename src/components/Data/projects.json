@@ -1,0 +1,35 @@
+[
+  {
+    "key": 1,
+    "title": "Hostel Management System (Major)",
+    "imageSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUANh0jjiyRgNTDEHeyKbCeH5pU97ym5WUyw&s",
+    "description": "A Hotel Management System built using the MERN stack (MongoDB, Express, React, Node.js) allows users to manage hotel room bookings online, including searching for availability,making reservations. all within a user-friendly interface with features like user authentication and admin dashboards.",
+    "demo": "https://github.com/Subhadra-Ghosh/Hostel_Management_System_AdminPanel",
+    "source": "https://github.com/Subhadra-Ghosh/Hostel_Management_System_AdminPanel"
+  },
+    {
+      "key": 2,
+      "title": "AirBnb WanderLust (Major)",
+      "imageSrc": "https://www.digital.ink/wp-content/uploads/airbnb_logo_detail.jpg",
+      "description": "Developed a full-featured Airbnb using JavaScript, EJS, CSS, Node.js,Express.js and MongoDB. Handled all backend functionalities.",
+      "demo": "https://airbnbdp.onrender.com",
+      "source": "https://github.com/Subhadra-Ghosh/AirbnbD"
+    },
+    {
+      "key": 3,
+      "title": "Simon-Says-Game",
+      "imageSrc": "https://w1.pngwing.com/pngs/138/573/png-transparent-simon-area-game-simon-says-smile-smiley-circle-symbol-thumbnail.png",
+      "description": "Developed an interactive Simon-Says-Game using JavaScript, CSS, and HTML. Implemented game logic to replicate the classic memory game.",
+      "demo": "https://subhadra-ghosh.github.io/Simon-Says-Game/",
+      "source": "https://subhadra-ghosh.github.io/Simon-Says-Game/"
+    },
+    {
+      "key": 4,
+      "title": "Lobe Tour Clone",
+      "imageSrc": "https://avatars.githubusercontent.com/u/25476191?s=280&v=4",
+      "description": "Created a responsive clone of the Lobe Tour website using HTML and CSS. Focused on  layout of the original site to enhance web development and styling skills.",
+      "demo": "https://subhadra-ghosh.github.io/LobeTourC/",
+      "source": "https://subhadra-ghosh.github.io/LobeTourC/"
+    }
+    
+  ]
