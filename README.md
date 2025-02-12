@@ -1,4 +1,3 @@
 # Getting Started with Create React App
- $env:NODE_OPTIONS="--openssl-legacy-provider" 
- npm start
+link - react-portfolio-wygm.vercel.app
 
